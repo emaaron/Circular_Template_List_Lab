@@ -1,7 +1,3 @@
-//
-// Created by Christopher Vaughn on 10/24/25.
-//
-
 #ifndef CIRCULARTEMPLATEDLIST_MEDIA_H
 #define CIRCULARTEMPLATEDLIST_MEDIA_H
 #include <string>

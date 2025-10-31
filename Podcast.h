@@ -1,7 +1,3 @@
-//
-// Created by Christopher Vaughn on 10/24/25.
-//
-
 #ifndef CIRCULARTEMPLATEDLIST_PODCAST_H
 #define CIRCULARTEMPLATEDLIST_PODCAST_H
 

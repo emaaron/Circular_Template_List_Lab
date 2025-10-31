@@ -1,3 +1,10 @@
+/*
+*   Name: Aaron Vasquez
+*   Date: October 30, 2025
+*   Assignment: Lab Activities: Circular List Template
+*   Program purpose: Implement templates while as well doing lists.
+*/
+
 #include <iostream>
 #include <string>
 #include "Media.h"
